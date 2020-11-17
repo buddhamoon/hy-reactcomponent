@@ -6,6 +6,7 @@ import {
     Col,
     Carousel
 } from 'antd';
+
 const { Header, Footer, Sider, Content } = Layout;
 const contentStyle = {
     height: '300px',
